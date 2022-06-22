@@ -38,4 +38,4 @@ test_script:
 
 cache:
  - node_modules
- - "%LOCALAPPDATA%/Yarn"
+ - "%LOCALAPPDATA%/Yarn" 
